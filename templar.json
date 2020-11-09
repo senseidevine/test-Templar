@@ -1,0 +1,9 @@
+{
+    "parameters": {
+        "name": "myApp",
+        "description": "This is a sample app"
+    },
+    "files": [
+        "package.json", "src/main.js"
+    ]
+}
