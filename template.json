@@ -4,6 +4,6 @@
         "description": "This is a sample app"
     },
     "files": [
-        "README.md"
+        "README.md", "style.scss"
     ]
 }
